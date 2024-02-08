@@ -24,6 +24,8 @@ docker run -p 8501:8501 ml_service_light:latest
 
 You can also add `-d` flag to run it in detached mode.
 
+Once up and running, open [this link](http://localhost:8501) in your browser to access Streamlit UI.
+
 ## Authors
 
 - Nick Kuzmenkov (@nickuzmenkov)
